@@ -1,6 +1,6 @@
 ![freepraylogo](https://user-images.githubusercontent.com/116132876/208253752-9412126b-031a-4231-9e1b-b5e83525d405.png)
 
-![prayerstabtextresized](https://user-images.githubusercontent.com/116132876/208253830-dc58e758-0a5b-48f2-a3e9-dbcde66d58b0.png)
+![prayerstabprayersresized](https://user-images.githubusercontent.com/116132876/208253477-87a14cf6-ec76-4fd9-8c7e-43714763c619.png)
 
 ## A Prayer App
 
