@@ -1,8 +1,8 @@
 ![freepraylogo](https://user-images.githubusercontent.com/116132876/208253752-9412126b-031a-4231-9e1b-b5e83525d405.png)
 
-![prayerstabprayersresized](https://user-images.githubusercontent.com/116132876/208253477-87a14cf6-ec76-4fd9-8c7e-43714763c619.png)
-
 ## A Prayer App
+
+![prayerstabprayersresized](https://user-images.githubusercontent.com/116132876/208253477-87a14cf6-ec76-4fd9-8c7e-43714763c619.png)
 
 Benedictus is a prayer app that allows the user to pray along with various prayer recordings, save prayers to favorites for easy access, and set reminders to pray.
 
