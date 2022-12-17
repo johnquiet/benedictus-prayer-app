@@ -1,4 +1,6 @@
-# Benedictus, a prayer app
+# Benedictus
+
+## A Prayer App
 
 Benedictus is a prayer app that allows the user to pray along with various prayer recordings, save prayers to favorites for easy access, and set reminders to pray.
 
