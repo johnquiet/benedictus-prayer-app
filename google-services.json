@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "SECRET_GOES_HERE",
+    "project_id": "SECRET_GOES_HERE",
+    "storage_bucket": "SECRET_GOES_HERE"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "SECRET_GOES_HERE",
+        "android_client_info": {
+          "package_name": "SECRET_GOES_HERE"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "SECRET_GOES_HERE",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "SECRET_GOES_HERE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "SECRET_GOES_HERE",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

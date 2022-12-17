@@ -1,0 +1,61 @@
+{
+  "expo": {
+    "name": "benedictus",
+    "slug": "SLUG_GOES_HERE",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/iconfix.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splashscreen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1D1D1D"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/iconfix.png",
+        "backgroundColor": "#1D1D1D"
+      },
+      "package": "PACKAGE_NAME_GOES_HERE",
+      "permissions": [
+        "SCHEDULE_EXACT_ALARM"
+      ],
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "color": "#a7e7fa",
+          "sounds": [
+            "./assets/sounds/ourfather.m4a",
+            "./assets/sounds/hailmary.m4a",
+            "./assets/sounds/glorybe.m4a"
+          ]
+        }
+      ],
+      "@react-native-google-signin/google-signin"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "EAS_PROJECT_ID_GOES_HERE"
+      }
+    }
+  },
+  "react-native-google-mobile-ads": {
+    "android_app_id": "AD_MOB_ID_GOES_HERE",
+    "ios_app_id": "AD_MOB_ID_GOES_HERE"
+  }
+}
