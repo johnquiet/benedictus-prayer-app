@@ -20,7 +20,7 @@ I created benedictus using React Native and Expo. While the code can be adapted 
 
 The back end uses Back4App, which communicates with the client via the Parse SDK.
 
-The app makes 3 database queries on app launch, and then two queries or one query every time the user adds a favorite prayer or deletes a favorite prayer, respectively. Otherwise, everything is handled locally in the app's state. 
+The app makes 3 database queries on app launch, 1 query on user sign in, and then one or two queries every time the user adds a favorite prayer or deletes a favorite prayer. One apparent limitation of the Parse SDK is that the developer is expected to make two queries to perform an outer join query, instead of just one.
 
 The database contains five tables, one each to contain the users, sessions, prayer categories, prayers, and favorites (this last containing two foreign keys from prayers and users).
 
