@@ -1,4 +1,4 @@
-# Benedictus
+![freepraylogo](https://user-images.githubusercontent.com/116132876/208253752-9412126b-031a-4231-9e1b-b5e83525d405.png)
 
 ## A Prayer App
 
