@@ -10,6 +10,8 @@ This is the first complete mobile application that I have developed, so I wanted
 
 # Demo
 
+Click play!!!
+
 https://user-images.githubusercontent.com/116132876/208224358-30406d94-d0ec-42b6-a1e7-b3685582ee5a.mp4
 
 # About the App
