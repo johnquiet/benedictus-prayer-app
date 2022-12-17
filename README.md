@@ -4,7 +4,7 @@
 
 Benedictus is a prayer app that allows the user to pray along with various prayer recordings, save prayers to favorites for easy access, and set reminders to pray.
 
-This is the first complete mobile application that I have developed, so I wanted to showcase the code and a demo in a public repository. Please watch the demo video if you would like to get a better idea of what the app does!
+This is the first complete mobile application that I have developed, so I wanted to showcase the code and a demo in a public repository. Please watch the demo video and turn the sound on if you would like to get a better idea of what the app does!
 
 # Demo
 
