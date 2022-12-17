@@ -42,27 +42,30 @@ The prayer recordings in the app are played using the expo-av library.
 
 The reminders tab lets the user set prayer reminders for when they would like to pray. When the time comes, the app will play a short prayer over the phone's audio to remind the user. The prayer will either be an Our Father, a Hail Mary, or a Glory Be, depending on the time of day. To stop the audio from playing the user can simply open their notifications tray, press the power button once, or press the red bell button at the bottom of the reminders tab. If the user would like to quickly set a short reminder for five minutes in the future, the user can push the yellow button at the bottom of the reminders tab.
 
-![reminderstab](https://user-images.githubusercontent.com/116132876/208252839-97d41484-9092-43cc-a0d3-256847f051a3.png)
+![reminderstabresized](https://user-images.githubusercontent.com/116132876/208253458-efc3a6cd-61ad-4047-87c8-69325dbeef06.png)
 
 ## Prayers Tab
 
 The prayers tab displays all of the prayer categories for the prayers currently in the database, as well as a button that takes the user to their favorites. When the user clicks on a prayer category button, the prayers tab displays all of the prayers in that category. Then, the user can expand the text for the prayer they want to pray along with by clicking the blue "+" button. To listen to the prayer, the user just clicks the play button, and can drag the progress bar to any point in the recording. If the user likes a particular prayer, they can favorite the prayer by pressing the plus heart button to the right of the prayer. This will add the prayer to their favorites which can be accessed by pressing the "Favorites" button at the top of the categories screen. 
 
-![prayerstabcategories](https://user-images.githubusercontent.com/116132876/208252989-2b430721-8449-4049-847f-0571a37652c9.png)
-![prayerstabprayers](https://user-images.githubusercontent.com/116132876/208252988-80dcc6b7-158b-4284-8c08-fbba5d61b494.png)
-![prayerstabtext](https://user-images.githubusercontent.com/116132876/208252987-40b09b3e-2ece-46ef-9fbc-cbb2ab25abd0.png)
+![prayerstabcategoriesresized](https://user-images.githubusercontent.com/116132876/208253470-2a5bb983-a785-4fc6-9425-e0d9f4fc008e.png)
+![prayerstabprayersresized](https://user-images.githubusercontent.com/116132876/208253477-87a14cf6-ec76-4fd9-8c7e-43714763c619.png)
+![prayerstabtextresized](https://user-images.githubusercontent.com/116132876/208253485-0e7f3c1e-5c9f-4345-b1ef-6f6b797ae65d.png)
+
 
 ## Search Tab
 
 Sometimes, the user may wish to go straight to a prayer rather than have to find it in the categories. The user can go to the search tab and type in the name of the prayer they are looking for. The search tab will display results with similar names in order of how similar they are to the search term. The user can favorite prayers on the search tab just like on the prayer tab.
 
-![searchtab](https://user-images.githubusercontent.com/116132876/208253086-0a058eee-137e-4fd7-a345-54887144877d.png)
+![searchtabresized](https://user-images.githubusercontent.com/116132876/208253493-8a84f439-fcef-415a-a75f-bc97ceb61ff7.png)
 
 ## Profile Tab
 
 On the profile tab, the user can sign in and out of the app. The user must be signed in to use the favorites feature. If the user is not signed in and tries to favorite a prayer, the user will be directed to sign in. The user can also delete their account and all of its data using the delete account button on the profile tab.
 
-![profiletab](https://user-images.githubusercontent.com/116132876/208253138-9bb13c4f-7a31-4611-bd98-ecbdd3a1682a.png)
+![profiletabresized](https://user-images.githubusercontent.com/116132876/208253498-33b12a44-2307-4b7d-9e9d-871000035969.png)
+
+
 
 
 
